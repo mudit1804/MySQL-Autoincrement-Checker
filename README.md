@@ -16,6 +16,9 @@ Requirements (For linux):
    cur.execute("USE databasename")   #LINE 18
 6) To sent alert on Slack you have to add an app to your slack channnel i.e. Incoming web hook
 7) Incoming web hook url has to be changed in LINE 12 to connect to your slack.
+8) Run Python Script.
+   Command:
+   python mysqlchecker.py
 
 
 
