@@ -13,7 +13,7 @@ Requirements (For linux):
    Line to be changed:
    
    mydb = MySQLdb.connect(host="localhost", port=3306, user=username, passwd=password) #LINE 9
-5) In python also changed the name of the database to the one you are using
+5) In python also change the name of the database to the one you are using
    Line to be changed:
    
    cur.execute("USE databasename")   #LINE 18
